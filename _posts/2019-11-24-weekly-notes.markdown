@@ -7,7 +7,7 @@ author: "Maria Figueiredo"
 ---
 
 * 18/11 Reunião com DS e VA (tarde)
-* 18/11 Teste AP na escola agrária
+* 18/11 Teste AP na escola A
 * 19/11 Talks com CG sobre quarenta
 * 19/11 Mails A&C
 * 20/11 Sessão A&C
