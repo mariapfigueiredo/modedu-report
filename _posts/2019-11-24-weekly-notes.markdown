@@ -14,4 +14,5 @@ author: "Maria Figueiredo"
 * 21/11 Texto para Unis Europeias (16h-22h)
 * 22/11 Feedback/talks sobre texto
 * 22/11 Mails A&C
-* 24/11 Feedback/talks sobre texto
+* 24/11 Feedback/talks sobre texto - revisão de 3h a tarde
+* 24/11 Escrita de carta para consórcio Unis Europeias
