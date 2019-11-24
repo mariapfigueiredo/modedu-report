@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "nafergo's weekly report"
-email: nafergo@gmail.com
-description: "Weekly log of nafergo's work for PAV"
-baseurl: "/weekly-report" # the subpath of your site, e.g. /blog
-url: "https://nafergo.github.io" # the base hostname & protocol for your site
-twitter_username: nafergo
-github_username:  nafergo
+title: "Mod Edu's weekly report"
+email: mariapfigueiredo@gmail.com
+description: "Weekly log of work for Mod Edu"
+baseurl: "/modedu-report" # the subpath of your site, e.g. /blog
+url: "https://mariapfigueiredo.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  mariapfigueiredo
 
 # Build settings
 markdown: kramdown
