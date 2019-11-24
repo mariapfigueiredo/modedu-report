@@ -2,13 +2,16 @@
 layout: post
 title:  "Week 18-24 november 2019"
 date:   2019-11-24 08:43:59
-categories: ["Pré-Nomeação"]
-author: "Nelson Gonçalves"
+categories: ["11-2019"]
+author: "Maria Figueiredo"
 ---
 
-* 19/11 Tropy and Transifex accounts
-* 20/11 Tropy demo for LB
-* 20/11 Full afternoon working on multiple projects: training, photogrammetry, etc.
-* 21/11 Set up this weekly log 
-* 21/11 Started Tropy translation
-* 22/11 Tropy translation
+* 18/11 Reunião com DS e VA (tarde)
+* 18/11 Teste AP na escola agrária
+* 19/11 Talks com CG sobre quarenta
+* 19/11 Mails A&C
+* 20/11 Sessão A&C
+* 21/11 Texto para Unis Europeias (16h-22h)
+* 22/11 Feedback/talks sobre texto
+* 22/11 Mails A&C
+* 24/11 Feedback/talks sobre texto
